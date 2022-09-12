@@ -1,0 +1,16 @@
+/* class selector */
+.h3-green {
+  color: green;
+}
+.h3-red {
+  color: red;
+  background: rgb(68, 68, 68);
+}
+.lowercase {
+  text-transform: lowercase;
+}
+
+/* id selector should be unique*/
+#h3-title {
+  font-size: 40px;
+}
