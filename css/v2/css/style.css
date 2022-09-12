@@ -4,3 +4,8 @@ h1 {
 h2 {
   color: rgb(117, 16, 233);
 }
+/* css rule > include selector and declaration block */
+/* selector > h1 */
+/* declaration block > { } */
+/* declaration property > color */
+/* value > : crimson */
