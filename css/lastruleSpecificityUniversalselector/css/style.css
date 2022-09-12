@@ -1,0 +1,17 @@
+/* Last Rule and Specificity * Universal Selector */
+p {
+  color: blue;
+}
+p {
+  color: red;
+}
+
+/* has more specificity */
+.red {
+  color: red;
+}
+
+/* universal selector has lease specificity */
+* {
+  color: blue;
+}
