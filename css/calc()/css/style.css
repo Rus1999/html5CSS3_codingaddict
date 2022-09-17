@@ -1,0 +1,21 @@
+/* 
+calc()
+perform math operations + - *
+mix and match values
+ */
+
+* {
+  margin: 0;
+}
+
+.navbar {
+  background: black;
+  height: 100px;
+  color: white;
+  font-size: 3rem;
+}
+
+.banner {
+  background: rgb(246, 140, 140);
+  min-height: calc(100vh - 100px);
+}
