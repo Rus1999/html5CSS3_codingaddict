@@ -1,0 +1,26 @@
+/* 
+em - Relative depends on parent
+rem - Relative depend on root
+1em = 16px default browser style;
+1em = base value 
+*/
+
+html {
+  font-size: 32px;
+}
+
+.relative-root {
+  font-size: 3rem;
+}
+
+div {
+  font-size: 10px;
+}
+
+.relative-parent {
+  font-size: 2em;
+}
+
+.absolute {
+  font-size: 48px;
+}
