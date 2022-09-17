@@ -1,0 +1,20 @@
+/* font-size, width, height, pixels */
+
+h1 {
+  font-size: 77px;
+  width: 200px;
+  height: 135;
+  background: pink;
+}
+
+.outer {
+  width: 200px;
+  height: 200px;
+  background: aqua;
+}
+
+.inner {
+  width: 50%;
+  height: 50%;
+  background: plum;
+}
