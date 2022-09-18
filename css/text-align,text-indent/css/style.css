@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+
+/* text-align, text-indent */
+
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  /* text-align: center; */
+}
+
+.main {
+  font-family: "Josefin Sans", sans-serif;
+  text-align: left;
+}
+
+.subheading {
+  font-family: "Josefin Sans", sans-serif;
+  text-align: left;
+}
+
+.one {
+  text-indent: 21px;
+}
+
+.two {
+  text-indent: 10rem;
+}
