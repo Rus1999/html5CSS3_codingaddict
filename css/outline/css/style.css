@@ -1,0 +1,31 @@
+/* CSS BOX MODEL */
+/* 
+outline, offset
+ */
+
+.buttons {
+  margin: 3rem;
+}
+
+a {
+  background: #de5d5d;
+  text-decoration: none;
+  padding: 1.2rem 1.5rem;
+  color: black;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin: 0 20px;
+}
+
+#one {
+  border: 0.2rem solid black;
+}
+
+#two {
+  /* outline-width: 0.2rem;
+  outline-style: solid;
+  outline-color: black; */
+  outline: 0.2rem solid black;
+  outline-offset: 2px;
+  /* outline-offset: -20px; */
+}
