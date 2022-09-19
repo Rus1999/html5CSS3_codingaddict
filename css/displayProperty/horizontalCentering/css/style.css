@@ -1,0 +1,19 @@
+/* horizontal centering
+*/
+
+body {
+  text-align: center;
+}
+
+/* only centering the text not entire box */
+.block {
+  background: blue;
+  color: white;
+  width: 210px;
+  margin: 1px auto;
+}
+
+.inline {
+  background: black;
+  color: white;
+}
